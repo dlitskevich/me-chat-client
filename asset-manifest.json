@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.eeb4ae37.css",
-    "main.js": "/static/js/main.9fabc5e5.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
-    "index.html": "/index.html",
-    "main.eeb4ae37.css.map": "/static/css/main.eeb4ae37.css.map",
-    "main.9fabc5e5.js.map": "/static/js/main.9fabc5e5.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/me-chat-client/static/css/main.eeb4ae37.css",
+    "main.js": "/me-chat-client/static/js/main.c2736c8c.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/me-chat-client/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/me-chat-client/index.html",
+    "main.eeb4ae37.css.map": "/me-chat-client/static/css/main.eeb4ae37.css.map",
+    "main.c2736c8c.js.map": "/me-chat-client/static/js/main.c2736c8c.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/me-chat-client/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eeb4ae37.css",
-    "static/js/main.9fabc5e5.js"
+    "static/js/main.c2736c8c.js"
   ]
 }
